@@ -1,0 +1,16 @@
+p{
+    		border: ridge;
+    		color: green;
+    		background-color: black;
+    	}
+
+a:link, a:visited{
+    			background-color: yellow;
+    	}
+    	a:hover, a:active {
+    		background-color: white;
+		} 
+    	h1:hover{
+    		text-align: center;
+    		color: green;
+    	}
