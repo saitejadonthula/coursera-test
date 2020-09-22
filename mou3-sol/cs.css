@@ -13,6 +13,13 @@
 .spac {
 	min-width: 100%;
 }
+.br{
+	
+	position: absolute;
+	bottom: 0px;
+}
+.br2{
+}
 html body{
 	background-color: #222;
 	color: white;
@@ -48,7 +55,7 @@ section{
 .row div{
 	background-color: yellow;
 	padding: 8px;
-	border: 2px solid black;
+	border: 2px solid white;
 		margin: 10px;
 		min-height: 1000px;
 
