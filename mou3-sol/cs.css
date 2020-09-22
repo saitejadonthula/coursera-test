@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+}
+#cl {
+
+	color: #9f0;
+	background-color: grey;
+}
+
+#hd{
+	max-width: 100%;
+	}
+.spac {
+	min-width: 100%;
+}
+html body{
+	background-color: #222;
+	color: white;
+}
+
+html button{
+	background-color: grey;
+}
+html  nav{
+	
+	background-color: white;
+	color : white;
+}
+.container 
+{   
+	max-width: 100%;
+	box-sizing: border-box;
+}
+.row h3{
+	font-size: 1.5em;
+	font-style: ;
+}
+.row section{
+	font-family: Monospace;
+	color: red;
+	font-size: 1.5em;
+	align-content: center;
+	max-width: 100%;
+
+}
+section{
+}
+.row div{
+	background-color: yellow;
+	padding: 8px;
+	border: 2px solid black;
+		margin: 10px;
+		min-height: 1000px;
+
+}
